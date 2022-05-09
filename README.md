@@ -6,7 +6,6 @@
   students best practices and methodologies in code and the value of open source software and state of mind.  
   The gruop will build a tool tailored to the need of EWB while keeping it generic and modular enough to be used  
   by different chapters.
-- 🌱 I’m currently learning computer science (Hoping to graduate before i retire :grinning: )
 - 👯 I’m looking to collaborate on open source projects in fields related to sustainabillity, smart cities, energy management etc.
 - 💬 Ask me about anything:)
 - 📫 How to reach me:     
