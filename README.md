@@ -1,6 +1,6 @@
 ### Greetings and salutations..
 
-- :computer: I have 6 years working with code and the latest tech and love every minute of it
+- :computer: I have 8 years working with code and the latest tech and love every minute of it
 - 🔭 I’m currently working on a software development dedicated group with Engineers Without Borders, Technion chapter.  
   The group will use the latest technologies in the industry, and will teach  
   students best practices and methodologies in code and the value of open source software and state of mind.  
